@@ -3,7 +3,7 @@ Telegram Tinder bot @dating_or_AI_bot
 
 ### **Overview**
 
-TinderBolt is a Java-based Telegram bot integrated with OpenAI ChatGPT.
+Tinder AI Bot is a Java-based Telegram bot integrated with OpenAI ChatGPT.
 It helps users build profiles, craft messages, and maintain conversations in a personalized way.
 
 ### **Features:**
